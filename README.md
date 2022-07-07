@@ -1,4 +1,4 @@
-# Batabit Responsive design - Mobile first
+# Batabit - Responsive design - Mobile first
 
 Project URL: https://magdielina.github.io/responsive-design-mobile-first/
 
